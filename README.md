@@ -13,10 +13,14 @@ Destacar que son totalmente gratuitos y de libre acceso.
 
 * Descripción de tipos básicos: [AppleBasic](https://developer.apple.com/documentation/swift)
 
+<<<<<<< HEAD
 * Empezando con swift: [GettingStartedSwift](https://swift.org/getting-started/#installing-swift)
 
 *  Empezar a desarrollar aplicaciones iOS (Swift): [StartDevelopingiOSApps](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html)
 
+=======
+* Empezar a desarrollar aplicaciones iOS (Swift): [StartDevelopingiOSApps](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html)
+>>>>>>> d98af819ed01d170f91146190a32d043b27db2f0
 
 ## ![](https://github.com/FranHenriquez/otro/blob/master/github-mark.png) Repositorios GitHub
 
