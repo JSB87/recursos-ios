@@ -16,6 +16,7 @@ Destacar que son totalmente gratuitos y de libre acceso.
 * Empezando con swift: [GettingStartedSwift](https://swift.org/getting-started/#installing-swift)
 
 
+* Empezar a desarrollar aplicaciones iOS (Swift): [StartDevelopingiOSApps](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html)
 
 
 ## ![](https://github.com/FranHenriquez/otro/blob/master/github-mark.png) Repositorios GitHub
@@ -26,7 +27,7 @@ Destacar que son totalmente gratuitos y de libre acceso.
 
 ## ![](https://github.com/FranHenriquez/otro/blob/master/images.png) Tutoriales
 
-* Construir una app paso a paso: [Beginning 12 IOs programing](https://www.raywenderlich.com/ios)
+* Construir una app paso a paso: [Beginning 12 IOs programing](https://www.appcoda.com/learnswift/)
 
 * iOS & Swift Tutorials Raywenderlich: [Tutorials Raywenderlich](https://www.raywenderlich.com/ios)
 
@@ -36,7 +37,7 @@ Destacar que son totalmente gratuitos y de libre acceso.
 
 * Intro to App Development with Swift: [[Intro to App Development with Swift](https://itunes.apple.com/us/book/intro-to-app-development-with-swift/id1118575552?mt=11)
 
-* Hacking With Swift: [[Hacking With Swift](https://www.hackingwithswift.com/)
+* Hacking With Swift: [Hacking With Swift](https://www.hackingwithswift.com/)
 
 ## ![](https://github.com/FranHenriquez/otro/blob/master/videos.png) Vídeos 
 
