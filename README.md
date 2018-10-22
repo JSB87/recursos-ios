@@ -23,7 +23,7 @@ Destacar que son totalmente gratuitos y de libre acceso.
 
 * Repositorios interesantes sobre swift: [Repositories swift](https://github.com/apple)
 
-* Una lista curada de impresionantes frameworks iOS, bibliotecas, tutoriales, extensiones y complementos de Xcode, componentes y mucho más.: [AwesomeiOS](https://github.com/vsouza/awesome-ios)
+* Listado de impresionantes frameworks iOS, bibliotecas, tutoriales, extensiones y complementos de Xcode, componentes y mucho más.: [AwesomeiOS](https://github.com/vsouza/awesome-ios)
 
 ## ![](https://github.com/FranHenriquez/otro/blob/master/images.png) Tutoriales
 
