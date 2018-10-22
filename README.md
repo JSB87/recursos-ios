@@ -17,6 +17,8 @@ Destacar que son totalmente gratuitos y de libre acceso.
 
 *  Empezar a desarrollar aplicaciones iOS (Swift): [StartDevelopingiOSApps](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html)
 
+* Guía Auto Layout: [AutoLayout](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/index.html) 
+
 
 ## ![](https://github.com/FranHenriquez/otro/blob/master/github-mark.png) Repositorios GitHub
 
