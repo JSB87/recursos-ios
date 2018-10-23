@@ -15,7 +15,7 @@ Destacar que son totalmente gratuitos y de libre acceso.
 
 * Empezando con swift: [GettingStartedSwift](https://swift.org/getting-started/#installing-swift)
 
-* Empezar a desarrollar aplicaciones iOS (Swift): [StartDevelopingiOSApps](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.htm
+* Empezar a desarrollar aplicaciones iOS (Swift): [StartDevelopingiOSApps](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html)
 
 * Guía Auto Layout: [AutoLayout](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/index.html) 
 
