@@ -4,8 +4,8 @@
 # Recursos iOS
 
 
-Este documento persigue aglutinar una serie de recursos que son muy útiles a la hora de desarrollar códigos para IOs. 
-El objetivo es presentar esa serie de recursos de manera ordenada y organizados por categorías (libros, vídeos, ejemplos de código…)
+Este documento persigue aglutinar una serie de recursos que son muy útiles a la hora de desarrollar código para IOs. 
+El objetivo es presentar esa serie de recursos de manera ordenada y organizados por categorías (libros, vídeos, ejemplos de código...)
 Destacar que son totalmente gratuitos y de libre acceso. 
 
 
@@ -15,9 +15,9 @@ Destacar que son totalmente gratuitos y de libre acceso.
 
 * Empezando con swift: [GettingStartedSwift](https://swift.org/getting-started/#installing-swift)
 
-
 * Empezar a desarrollar aplicaciones iOS (Swift): [StartDevelopingiOSApps](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html)
 
+* Guía Auto Layout: [AutoLayout](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/index.html) 
 
 ## ![](https://github.com/FranHenriquez/otro/blob/master/github-mark.png) Repositorios GitHub
 
