@@ -27,9 +27,11 @@ Destacar que son totalmente gratuitos y de libre acceso.
 
 ## ![](https://github.com/FranHenriquez/otro/blob/master/images.png) Tutoriales
 
-* Construir una app paso a paso: [Beginning 12 IOs programing](https://www.appcoda.com/learnswift/)
 
+* Construir una app paso a paso: [Beginning 12 IOs programing](https://www.appcoda.com/learnswift)
+* Introducción a los Storyboads: [Tutorial (spanish)] (http://www.efectoapple.com/introduccion-los-storyboards-parte-1/)
 * iOS & Swift Tutorials Raywenderlich: [Tutorials Raywenderlich](https://www.raywenderlich.com/ios)
+
 
 ## ![](https://github.com/FranHenriquez/otro/blob/master/libro.png) Libros
 
@@ -43,6 +45,6 @@ Destacar que son totalmente gratuitos y de libre acceso.
 
 * Aprende Swift: [swift one video](https://www.youtube.com/watch?v=6Zf79Ns8_oY)
 
-
 * Lets Build That App: [Lets Build That App](https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA)
+
 
