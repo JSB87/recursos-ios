@@ -29,8 +29,9 @@ Destacar que son totalmente gratuitos y de libre acceso.
 
 
 * Construir una app paso a paso: [Beginning 12 IOs programing](https://www.appcoda.com/learnswift)
-* Introducción a los Storyboads: [Tutorial (spanish)] (http://www.efectoapple.com/introduccion-los-storyboards-parte-1/)
+* Introducción a los Storyboads: [Tutorial spanish](http://www.efectoapple.com/introduccion-los-storyboards-parte-1/)
 * iOS & Swift Tutorials Raywenderlich: [Tutorials Raywenderlich](https://www.raywenderlich.com/ios)
+* How to make apps iOS: [iOS App Development](https://appsandbiscuits.com/tagged/ios-app-development)
 
 
 ## ![](https://github.com/FranHenriquez/otro/blob/master/libro.png) Libros
