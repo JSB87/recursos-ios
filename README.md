@@ -23,15 +23,20 @@ Destacar que son totalmente gratuitos y de libre acceso.
 
 * Repositorios interesantes sobre swift: [Repositories swift](https://github.com/apple)
 
-* Listado de impresionantes frameworks iOS, bibliotecas, tutoriales, extensiones y complementos de Xcode, componentes y mucho más.: [AwesomeiOS](https://github.com/vsouza/awesome-ios)
+* Listado de impresionantes frameworks iOS, bibliotecas, tutoriales, extensiones y complementos de Xcode, componentes y mucho más: [AwesomeiOS](https://github.com/vsouza/awesome-ios)
 
 ## ![](https://github.com/FranHenriquez/otro/blob/master/images.png) Tutoriales
 
 
 * Construir una app paso a paso: [Beginning 12 IOs programing](https://www.appcoda.com/learnswift)
+
 * Introducción a los Storyboads: [Tutorial spanish](http://www.efectoapple.com/introduccion-los-storyboards-parte-1/)
+
 * iOS & Swift Tutorials Raywenderlich: [Tutorials Raywenderlich](https://www.raywenderlich.com/ios)
+
 * How to make apps iOS: [iOS App Development](https://appsandbiscuits.com/tagged/ios-app-development)
+
+* Xcode 10 Library Tips: [Xcode 10 Library Tips](https://useyourloaf.com/blog/xcode-10-library-tips/)
 
 
 ## ![](https://github.com/FranHenriquez/otro/blob/master/libro.png) Libros
